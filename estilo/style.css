@@ -18,7 +18,6 @@
 html, body{
     background-color: darkgrey;
     font-family: var(--fonte01);
-    font-size: 1.25em;
 }
 header{
     background-color: black;
