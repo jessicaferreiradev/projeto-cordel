@@ -60,6 +60,7 @@ section > p {
 section.normal {
     background-color: white;
     color: black;
+    font-size: 1em;
 }
 
 section.imagem {
@@ -81,10 +82,12 @@ section#img2{
     background-size: cover;
 }
 section.imagem > p {
+    font-size: 1em;
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.336);
     padding: 5px;
     text-shadow: 1px 1px 0px black;
+
 }
 
 footer{
